@@ -91,7 +91,7 @@ public class imageAdapter extends RecyclerView.Adapter<imageAdapter.SongHolder> 
         });
     }
 
-    public Bitmap toGrayscale(Bitmap bmpOriginal)
+    public static Bitmap toGrayscale(Bitmap bmpOriginal)
     {
         int width, height;
         height = bmpOriginal.getHeight();
