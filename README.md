@@ -1,5 +1,5 @@
-# Loadimages
-An android application which detects the levels of safety of drivers using real time images for 'smarter and safer cities'.
+# Saarthi
+An android application which detects the levels of safety of drivers using real time images for 'smarter and safer cities'. This project is currently maintained under 'Paytm Build for India'.
 
 ### Concepts used:
 
